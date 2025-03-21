@@ -60,7 +60,6 @@ public class DeChild extends DeParent{
 	 */
 	@Override
 	public void printParent() {
-		// TODO Auto-generated method stub
 		super.printParent();
 		System.out.printf(", 학번:%s\n", stNumber);
 	}
